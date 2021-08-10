@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FlavioBarbosa2304
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning C/C++
+- 🌱 I’m currently learning C/C++ and Python- 
 .
 
 <!---
