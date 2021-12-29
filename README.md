@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FlavioBarbosa2304
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning C/C++ and Python- 
-.
+- 🌱 I’m currently learning C/C++, Python and JS.
+
 
 <!---
 FlavioBarbosa2304/FlavioBarbosa2304 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
